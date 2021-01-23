@@ -4,23 +4,24 @@ Goal: To crack by July 8th, 2021.
 
 Sprint 0: 21st Jan to 30th Jan (Kickoff & Planning)
     * Identify the topics
-         - Status: In Progress
+         - Status: In Progress (Identify list of companies, Check the JDs and identify additional topics)
          - List:
-            Technical
-                 * System Design 
-                 * Algorithms & Data Structures
-                 * Design Patterns, Architectures
-                 * Cloud
+                 * Data Structures & Algorithms
+                 * Java, Spring, etc
+                 * Design & Architectural Patterns (Microservices, Serverless)
+                 * System Design
+                 * CI/CD (git, maven, jenkins, docker, kubernetes, ...)
+                 * Cloud Fundamentals (AWS - EC2, S3, Lambda, )
                  * Architecture of current & prev Projects
-                 * Current & Prev experiences to quote
-            
-            Program management 
-                 * Engineering Management
-                 * Current & Prev experiences to quote
+                 * Achievements & Experiences
+                 * Development Tools (CI/CD, Automation Tools, Performance Tools, Code Quality, ....)
+                 * Engineering Practices
+                 * Achievements & Experiences
       
             Behavioral
                  * Leadership principles
-                 * Current & Prev experiences to quote
+                 * Achievements & Experiences
+                 * Analytical Skills
            
     * Prioritizing/Ordering of topics
          - Status: Yet to Start
